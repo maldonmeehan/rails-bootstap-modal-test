@@ -1,6 +1,10 @@
 # Testing Bootstrap Modal with Ajax
 A tutorial to create a Boostrap modal form using Ajax
 
+# Description
+Lesson can be found herer:
+http://ericlondon.com/2014/03/13/rails-4-submit-modal-form-via-ajax-and-render-js-response-as-table-row.html
+
 ## Setup/Installation Requirements
 
 ```
