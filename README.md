@@ -1,24 +1,47 @@
-# README
+# Testing Bootstrap Modal with Ajax
+A tutorial to create a Boostrap modal form using Ajax
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Setup/Installation Requirements
 
-Things you may want to cover:
+```
+$ git clone https://github.com/maldonmeehan/rails-bootstap-modal-test.git
+```
 
-* Ruby version
+Install required gems:
+```
+$ bundle
+```
 
-* System dependencies
+Run Postgres:
+```
+$ postgres
+```
 
-* Configuration
+Open a new window and run:
+```
+$ rake db:create
+```
+```
+rake db:migrate
+```
 
-* Database creation
+```
+$ rails s
+```
 
-* Database initialization
+Navigate to `http://localhost:3000` in your browser of choice.
 
-* How to run the test suite
+## Known Bugs
 
-* Services (job queues, cache servers, search engines, etc.)
+No known bugs at this point
 
-* Deployment instructions
+## Support and contact details
 
-* ...
+If you have any questions please feel free to contact Maldon on github
+
+## Technologies Used
+
+* Ruby on Rails
+* AJAX
+* Postgres
+* Bootstrap
